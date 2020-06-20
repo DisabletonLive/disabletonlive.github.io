@@ -1,0 +1,35 @@
+.feature-heading {
+  font-family: 'Open Sans';
+  font-size: 32px;
+  margin-bottom: 1px;
+}
+
+.feature-text {
+  font-family: 'Open Sans';
+  color: rgb(125,130,133);
+  font-size: 20px;
+}
+
+.feature-alt {
+  background-color: rgb(238,244,247);
+}
+
+#requirements-label {
+  font-size: 15px;
+  padding: 5px 0px 0px 10px;
+}
+
+.col.plus-feature-text-container {
+  margin-left: 30px;
+}
+
+.feature-ok-img {
+  width: 22px;
+}
+
+.faqheading {
+  color: rgb(51, 51, 153);
+  font-size: 16px;
+  font-weight: 300;
+}
+
